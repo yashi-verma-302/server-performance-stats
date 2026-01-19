@@ -23,3 +23,6 @@ This project helps understand how to monitor CPU usage, memory usage, disk usage
   - `free`
   - `df`
   - `ps`
+
+## Project URL
+https://roadmap.sh/projects/server-stats
